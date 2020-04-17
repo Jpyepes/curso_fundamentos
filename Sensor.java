@@ -3,7 +3,7 @@ public class Sensor
     //Atributos de clase
     public static Sensor[] sensores = new Sensor[8];
     public static int posAnadir = 0, tamano = 8;//,sensoresTemp=0;
-    // public static Sensor [] sensor = new Sensor [8];
+    
 
     //Atributos de instancia
     private String tipo; 
